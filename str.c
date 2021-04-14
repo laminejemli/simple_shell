@@ -15,7 +15,7 @@ int main (int argc __attribute__((unused)), char *argv[])
 
         while(1)
         {
-                if(pToken == NULL)
+               if (pToken == NULL)
                         break;
 
                 printf("Token = %s\n", pToken);
