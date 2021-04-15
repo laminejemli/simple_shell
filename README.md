@@ -1,5 +1,5 @@
 
-#simple_shell
+Simple_shell
 
 [![](https://i.ibb.co/85CrXXV/shell.jpg)](https://i.ibb.co/85CrXXV/shell.jpg)
 
@@ -39,20 +39,7 @@ $ ./hsh
 - To exit the program
 $ Ctrl+D
 
-### Usage
-To use our shell you simply need to:
 
-- Clone the repo
-$ git clone https://github.com/laminejemli/simple_shell.git
-
-- To compile:
-$ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
-
-- To start the program, run:
-$ ./hsh
-
-- To exit the program
-$ Ctrl+D
 
 ## Examples
 cd , cd "path NAME"
