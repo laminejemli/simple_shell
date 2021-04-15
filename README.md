@@ -9,6 +9,7 @@ The shell is a program that receives computer commands given by a user from his 
 ## # Concept of the project :
 1 how to work in a group and have a good experience 2 How shell works 3
 how to use git in team setting
+laminejemli
 
 ## Examples
 cd , cd "path NAME"
