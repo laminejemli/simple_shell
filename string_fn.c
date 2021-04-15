@@ -101,7 +101,7 @@ char *_strdup(const char *str)
 	for (b = 0; b < i; b++)
 		p[b] = str[b];
 	p[b + 1] = '\0';
-	return (p);
+qreturn (p);
 }
 /**
  * str_concat - function that concatenates two strings
